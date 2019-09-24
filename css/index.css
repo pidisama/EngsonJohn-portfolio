@@ -331,10 +331,10 @@ footer{
 	.mobile-nav-links-container{
 		padding-top: 90px;
 	}
-	about-header{
+	.about-header{
 		font-size: 1.8rem;
 	}
-	about-paragraph{
+	.about-paragraph{
 		font-size: 1.2rem;
 	}
 }
