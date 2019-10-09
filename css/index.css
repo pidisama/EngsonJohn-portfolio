@@ -18,6 +18,7 @@ nav{
 	left: 0;
 	width: 100%;
 	height: 75px;
+	z-index: 2;
 }
 footer{
 	max-width: 1366px;
@@ -285,6 +286,9 @@ footer{
 	}
 	.mobile-nav-links-container{
 		padding-top: 80px;
+		position: fixed;
+		width: 100%;
+		z-index: 1;
 	}
 	.in-mobile{
 		display: block;
