@@ -24,6 +24,25 @@ footer{
 	max-width: 1366px;
 	line-height: 2;
 }
+
+div.gallery {
+  margin: 40px;
+  border: 6px solid #1e42a5;
+  float: left;
+  width: 18%;
+}
+
+div.gallery:hover {
+  border: 6px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  -o-object-fit: cover;
+}
+
 .icon:hover{
 	transform: scale(1.1);
 	color: #ee6aff;
@@ -217,7 +236,7 @@ footer{
 }
 .projects{
 	text-align: center;
-	padding: 15rem 0px 14rem 0px; }
+	padding: 5rem 0px 4rem 0px; }
 	.projects-title{
 		font-family: 'Quicksand', sans-serif;
 		font-size: 2rem;
