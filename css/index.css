@@ -169,7 +169,7 @@ footer{
 	background: url("../images/background_lines.png");
 	position: absolute;
 	top: 400px;
-    height: 2311px;
+    height: 100vh;
     width: 1920px;
     z-index: 1;
 }
@@ -181,7 +181,7 @@ footer{
 	position: relative;
 }
 .portfolio-container {
-	min-height: 1895px;
+	min-height: 1500px;
 }
 .main-heading {
 	font-weight: 300;
