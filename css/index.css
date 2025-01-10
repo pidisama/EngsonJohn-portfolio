@@ -181,7 +181,8 @@ footer{
 	position: relative;
 }
 .portfolio-container {
-	min-height: 1500px;
+/* 	min-height: 1500px; */
+	padding-bottom: 160px;
 }
 .main-heading {
 	font-weight: 300;
