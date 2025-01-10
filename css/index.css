@@ -169,7 +169,7 @@ footer{
 	background: url("../images/background_lines.png");
 	position: absolute;
 	top: 400px;
-    height: 100vh;
+    height: 2300px;
     width: 1920px;
     z-index: 1;
 }
